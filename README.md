@@ -104,6 +104,11 @@
   - *Use case: Hosting static sites and serverless functions*
   - *Why it's great: Git integration and instant deployments*
 
+### Interactive 3D & Seat Previews
+- **[StagePeek](https://stagepeek.live/)** - Interactive 3D seat view and stage sightline simulator for 201 arenas, stadiums, and theaters
+  - *Use case: Previewing exact row, seat, and 1x–10x zoom concert/sports sightlines before purchasing tickets*
+  - *Why it's great: Works instantly in the browser without login across 5 languages and 32 exact row/seat venues*
+
 ## 📱 Mobile Tools
 
 ### App Development
